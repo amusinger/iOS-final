@@ -1,0 +1,6 @@
+framework module Pods_FinalAizhanYerimbetova {
+  umbrella header "Pods-FinalAizhanYerimbetova-umbrella.h"
+
+  export *
+  module * { export * }
+}
